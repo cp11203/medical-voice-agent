@@ -38,8 +38,10 @@ pip install -r requirements.txt
 cp .env.example .env
 # Fill in all values in .env
 
-# 3. Start your tunnel (keep this running) - domain can be found at https://your-ngrok-domain.ngrok-free.app
-ngrok http --domain=<your-domain> 8080
+# 3. Start your tunnel (keep this running)
+# Claim a free static domain at dashboard.ngrok.com → Cloud Edge → Domains
+# Set that domain as PUBLIC_BASE_URL in your .env (e.g. https://your-domain.ngrok-free.app)
+ngrok http --domain=your-domain.ngrok-free.app 8080
 
 # 4. Start the media server (keep this running)
 python src/server.py
