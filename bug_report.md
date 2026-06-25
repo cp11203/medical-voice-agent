@@ -75,9 +75,9 @@ All timestamps verified via OpenAI Whisper (word-level) cross-checked against De
 
 | Timestamp | Speaker | Content |
 |-----------|---------|---------|
-| 1:45 – 1:50 | Agent | Offers *"5:15 PM"* on Tuesday June 30th (word-level: "5" @ 105.44s, ".15" @ 105.66s, "pm" @ 106.30s) |
+| 1:45 – 1:50 | Agent | Offers *"5:15 PM"* on Tuesday June 30th |
 | 2:51 – 2:56 | Patient | Accepts the 5:15 PM slot |
-| **3:02 – 3:10** | **Agent** | **Confirms: "Your appointment is set for Tuesday June 30th at 5:15 PM"** (word-level: "5" @ 185.76s, ".15" @ 186.06s, "pm" @ 186.52s) |
+| **3:02 – 3:10** | **Agent** | **Confirms: "Your appointment is set for Tuesday June 30th at 5:15 PM"** |
 
 **Cross-reference:** In `CAebe4f8a85bedc6ad61b5c07904a31fc1__hours_insurance`, the same agent stated clinic hours as *"Monday, Tuesday and Thursday from 9 AM to 4 PM."* Tuesday closes at 4 PM. The booked slot is 1 hour 15 minutes after close.
 
