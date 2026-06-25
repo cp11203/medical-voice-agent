@@ -38,7 +38,7 @@ pip install -r requirements.txt
 cp .env.example .env
 # Fill in all values in .env
 
-# 3. Start your tunnel (keep this running)
+# 3. Start your tunnel (keep this running) - domain can be found at https://your-ngrok-domain.ngrok-free.app
 ngrok http --domain=<your-domain> 8080
 
 # 4. Start the media server (keep this running)
