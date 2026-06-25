@@ -1,0 +1,8 @@
+AGENT: This call may be recorded for quality and training purposes,
+PATIENT: Yeah, that's fine. Hi, so I'm calling because I need a refill on my blood pressure medication — the lisinopril? I'm pretty sure it's either 10 or 20 milligrams, honestly I'm not totally certain which one, but I'm running low and need to get that taken care of soon.
+AGENT: Opening. Thanks for calling Pivot point Ortho orthopedic. Part of pretty good Ai. Am I speaking with Alex?
+PATIENT: Yeah, that's me, Alex. But actually, I think I might have the wrong number — I was trying to reach my regular clinic about a prescription refill, not an orthopedic office. Is this the right place?
+AGENT: This is Pivot point Orthopedic. An orthopedic clinic focused on joint, muscle and bone care. If you need a prescription refill for something related to orthopedic treatment, I can help. Otherwise, you may want to contact your regular clinic directly. Would you like to continue here or try reaching your usual provider?
+PATIENT: Oh, okay, yeah, that's not what I need — my refill is for blood pressure medication, so I should probably call my regular clinic instead. Thanks anyway.
+AGENT: No problem. For blood pressure medication, your primary care clinic is the best place to help. If you ever need orthopedic care, feel free to reach out. Take care.
+PATIENT: Thanks, I appreciate it. Have a good day.

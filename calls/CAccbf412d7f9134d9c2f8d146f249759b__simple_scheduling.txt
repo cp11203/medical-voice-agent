@@ -1,0 +1,20 @@
+AGENT: Call may be recorded for quality and training purposes,
+PATIENT: Yeah, that's fine with me. What do I need to do to schedule an appointment?
+AGENT: Thank you for calling...
+PATIENT: Hi, thanks for picking up. I'm calling because I'd like to schedule a routine check-up.
+AGENT: Would you like to create a demo patient profile first? I just need your first and last name to get started.
+PATIENT: Sure, my name is Alex Chen.
+AGENT: Your patient profile is set up. And your date of birth is July fourth two thousand for demo purposes. How can I help you today?
+PATIENT: Yeah, that's right. Like I said, I'm looking to schedule a routine check-up appointment.
+AGENT: Do you have a specific provider you'd like to see or are you open to the available appointment.
+PATIENT: I'm open to whoever's available, that works for me.
+AGENT: We have opening this Friday with two providers. Would you prefer a morning or afternoon appointment?
+PATIENT: Actually, weekdays are pretty tough for me. Do you have anything available this Saturday evening or Sunday instead?
+AGENT: Let me check for weekend availability. And see if there are any evening slots. One moment.
+PATIENT: Okay, thanks for checking.
+AGENT: There aren't any weekend or evening appointments available. The closest option is Monday at three thirty Pm with doctor z big new Lac. Would you like to book that? Or should I check for other days or times?
+PATIENT: Monday at three thirty works for me, yeah. Let me book that.
+AGENT: Your routine check is booked for Monday, June twenty ninth at three thirty Pm. With doctor Z Big new Lac at Pivot point Orthopedic. Please bring your photo Id, insurance card. A list of your current medications and any imaging disks you have. Would you like a text message with these details?
+PATIENT: Yes, please send that to me. And one more thing — do I need to do anything to prepare for the check-up, like fasting or anything like that?
+AGENT: You'll get a text with your appointment details soon. For a routine checkup up No special preparation like fasting is needed unless your provider tells you otherwise. If you have specific concerns or want lab work, let the doctor know during your visit. Anything else I can help with?
+PATIENT: No, that's all set. Thanks so much for your help.

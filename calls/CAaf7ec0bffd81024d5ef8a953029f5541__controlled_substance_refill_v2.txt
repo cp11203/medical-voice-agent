@@ -1,0 +1,25 @@
+AGENT: Call may be recorded for quality and training purposes,
+AGENT: Us. Thanks for calling Pivot point Ortho orthopedic. Part of pretty good Ai. Am I speaking with Alex?
+PATIENT: Hey, yeah, this is Alex. I'm calling because I need a refill on my Adderall prescription — I'm almost out and really need it this week. Can you help me with that?
+AGENT: Please provide your date of birth.
+PATIENT: My date of birth is March 15th, 1990.
+AGENT: Which medication do you need refill today?
+PATIENT: Adderall, 20mg. I'm almost completely out, so I really need to get that refilled.
+AGENT: How many days of adderall do you have left? If you are already out, Just let me know.
+PATIENT: I've got maybe two days left, so I'm basically out. I really need to get this filled this week.
+AGENT: I have noted you have about two days left Can I confirm your callback number as four two four three five three three one eight eight for follow ups?
+PATIENT: Yeah, that sounds right. Can you go ahead and process that refill for me?
+AGENT: Could you please tell me the name of the pharmacy you want to use for your medication. If you know the address, city or any details like cross streets or nearby stores, that would help too. If you have their phone or fax number, please share that as well.
+PATIENT: It's CVS on Main Street in downtown — I think the number is 555-0147. That's where I usually get it filled.
+AGENT: Could you tell me the city in state for the Cds on Main street. If you know the Zip code that would work too. This will help make sure we have the right location.
+PATIENT: It's in Portland, Oregon, zip code 97214.
+AGENT: I do not see a Cvs pharmacy on Main Street Or with the Zip code nine seven two one four in Portland? Here are some Cvs locations in Portland that might be nearby. One eight two one Northeast thirty third Avenue, nine seven two one two one hundred. Five Northwest, thirteenth Avenue, nine seven two zero nine three hundred forty five southwest Harrison Street, nine seven two zero one. Do any of these sound like the pharmacy you use? Or is there another detail you remember about the location?
+PATIENT: Oh, sorry — it's the one on Northeast 33rd Avenue, that's the one I go to. That first one you mentioned should be fine.
+AGENT: No problem. Do any of those addresses sound familiar? Or is there another detail about your Cvs pharmacy that might help me find the right one?
+PATIENT: Yeah, the Northeast 33rd Avenue one — that's the CVS I use. That should be the right location.
+AGENT: I am processing your adderall refill request for the Cds at one eight two one Northeast thirty third Avenue in Portland. The clinic staff will review your request and follow up soon as possible.
+PATIENT: Okay, great, thanks for your help. I really appreciate it.
+AGENT: Your refill request has been sent to the clinic team. They will contact you soon if they need anything else. Let me know if you need help with anything else today.
+PATIENT: No, that's all I needed. Thanks again, have a good one.
+AGENT: Hey, Carol Alex. Have a great day.
+PATIENT: You too, thanks!

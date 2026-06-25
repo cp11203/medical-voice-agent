@@ -1,0 +1,19 @@
+AGENT: This call may be recorded for quality and training purposes, minds are
+AGENT: Opening my us. Thanks for calling Pivot point Ortho orthopedic. Part of pretty good Ai. Am I speaking with Alex?
+PATIENT: Hey, yeah, that's me. I'm calling to try to get an appointment scheduled.
+AGENT: Please tell me your date of birth.
+PATIENT: It's March 15th, 1987.
+AGENT: Thanks, Alex. The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+PATIENT: I need to get in for an appointment, but I work Monday through Friday so I really need something on a weekend or maybe early morning or evening on a weekday if that's possible?
+AGENT: Of course. Can you tell me the reason for your visit? For example, is this for a new patient consultation, a follow up, a routine office visit or something else.
+PATIENT: It's a new patient consultation, I've been having some shoulder pain and want to get it checked out.
+AGENT: Do you have a specific provider you'd like to see or are you open to first available.
+PATIENT: I'm open to whoever's available first, as long as it fits my schedule. Do you have anything this weekend or early morning or late?
+AGENT: I have two openings with Doo H on Tuesday, June t. One is that twelve forty five Pm and the other at five fifteen Pm. Would either of bills work for you? If not, I can check other dates.
+PATIENT: The five fifteen PM could work since that's after work, but do you have anything on Saturday or Sunday first? I'd really prefer a weekend slot if you have it.
+AGENT: There aren't any weekend openings available right now. The soon auctions are still Tuesday, June t at twelve forty five Pm or five fifteen Pm with Duty Housing. Would you like to book the five fifteen Pm slot? If not, I can check for other dates?
+PATIENT: Yeah, the five fifteen PM on Tuesday works for me then. Let me just confirm — that's Tuesday, June something, at five fifteen PM with Dr. H, right?
+AGENT: Yes. That's Tuesday, June t at five fifteen Pm with Duty H. Would you like me to book that for you?
+PATIENT: Yes, please book that for me. Thanks.
+AGENT: Your appointment is set for Tuesday, June t at five fifteen Pm, with doctor Du H at Pivot point Orthopedic. Please bring your photo Id insurance card, a list of your current medications and any imaging disks you have. Is there anything else you need help with?
+PATIENT: No, that's all I need. Thanks for getting me scheduled, I appreciate it. Have a good one.

@@ -1,0 +1,21 @@
+AGENT: This call may be recorded for quality and training purposes. Or us
+AGENT: Us.
+AGENT: Thanks for calling Pivot Orthopedic, part of pretty good Ai. I speaking with Alex?
+PATIENT: Hi, yes, this is Alex. I'm calling on behalf of my mother, Carol Whitfield — she's a patient there. I wanted to check on her upcoming appointment and see if we might be able to move it to a different day this week, if possible.
+AGENT: Please provide your mother's full date of birth.
+PATIENT: It's Carol Whitfield, born March 15th, 1956.
+AGENT: Just to firm, I have Carol West with the date of birth of March fifteenth nineteen fifty six. Is that correct? If so, could you please spell her first and last name for me?
+PATIENT: Sorry, her last name is W-H-I-T-F-I-E-L-D, Whitfield. And her first name is C-A-R-O-L. That's Carol Whitfield.
+AGENT: Would you like to use a phone number to look up Carol's record? If so, Please provide the phone number you have on file for her. If you're not sure, just let me know.
+PATIENT: Yeah, I have her number — it's 555-0147.
+AGENT: That number seems a bit short. Could you please provide the full ten digit phone number you have on file for Carol?
+PATIENT: Oh sorry, let me get that right — it's 555-0147... actually, I'm not completely sure I have all the digits. Do you have it on file there that you could confirm with me?
+AGENT: I'm not able to confirm the number on file. If you're unsure, could you please spell out Carol's first and last name again and confirm her date of birth one more time.
+PATIENT: Sure, her first name is C-A-R-O-L, last name W-H-I-T-F-I-E-L-D, and her date of birth is March 15th, 1956.
+AGENT: I can't proceed further right now, but I can make sure our clinic support team follows is up with you. Would you like me to connect to you to our patient support team?
+PATIENT: Yeah, that sounds good. I'd appreciate that, thank you.
+AGENT: Connecting you to a representative. Please wait.
+PATIENT: Okay, thanks. I'll hold.
+AGENT: Hello.
+AGENT: Hello. You've reached the pretty good Ai test line. Goodbye.
+PATIENT: Hello? Sorry, are you there? I'm calling about my mother's appointment — Carol Whitfield. Can you help me with that?

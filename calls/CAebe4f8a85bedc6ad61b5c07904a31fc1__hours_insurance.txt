@@ -1,0 +1,29 @@
+AGENT: This call may be recorded for quality and training purposes,
+AGENT: Us. Thanks for calling Pivot point Orthopedic. Part of pretty good ai... Am I speaking with Alex?
+PATIENT: Yes, this is Alex speaking. Thanks for picking up—I'm calling because I'm looking to schedule an appointment, but I had a few questions first about your clinic.
+AGENT: Please provide your date of birth.
+PATIENT: Sure, my date of birth is March 15th, 1989.
+AGENT: The birthday doesn't match our records, but for demo purposes, oh accept it.
+PATIENT: Okay, thanks. So like I said, I had a couple questions before booking anything—what are your regular office hours?
+AGENT: I help you today?
+PATIENT: Sorry, could you say that again? I didn't catch that.
+AGENT: No problem. I said the birthday doesn't match our thirds, but for demo purposes, I'll accept it. How can I help you today?
+PATIENT: Got it, thanks. So I'm wondering—what are your regular office hours during the week?
+AGENT: We're open Monday, Tuesday and Thursday, from nine Am to four Pm, Wednesday from twelve Pm to seven Pm from and Friday from nine Am to twelve Pm. Is there anything else you'd like to know?
+PATIENT: Thanks for that. Yeah, I actually do have a couple more questions. Are you guys open the day after Thanksgiving, or the day after July 4th? Those are the kinds of days I'm never sure about.
+AGENT: That's a great question. I don't have the exact holiday schedule, so I recommend calling the clinic closer to those dates to confirm. Is there anything else I can help with?
+PATIENT: Fair enough. One more thing—where is the clinic located? And also, do you take Blue Cross Blue Shield insurance? I have the out-of-state federal employee plan, so I want to make sure that's covered.
+AGENT: The clinic is at one two three four recovery way, Suite two hundred, Austin. For insurance, we accept most plans, but I'll need to check your specific blue cross Blue shield federal employee plan. Let me confirm that for you.
+PATIENT: Okay, so when you say you accept most plans—can you actually verify that my specific BCBS federal employee plan is in-network? I don't want to book an appointment only to find out later it's not covered.
+AGENT: I'll need your
+PATIENT: Sorry, go ahead—what do you need from me?
+AGENT: Could you
+PATIENT: I'm still here, just let me know what you need.
+AGENT: I need the member Id number from your Blue Cross Blue Shield card? Could you please provide that?
+PATIENT: Oh sure, it's 987654321.
+AGENT: Could you tell me which state your Blue Cross Blue Shield plan was issued in?
+PATIENT: It was issued in California.
+AGENT: We do accept several Blue Cross Blue shield plans in California, including federal employee options. To match your exact plan, could you tell me the claims mailing address or Po box from the back of your card. This will help me confirm coverage for your specific plan.
+PATIENT: Let me look at the back of my card real quick—it says the claims address is PO Box 54321, Sacramento, California.
+AGENT: Thanks. I don't see a match for Ke box five four three two one in Sacramento. Could you double check the address? Or let me know if there's another address listed on your card. Sometimes there are multiple addresses.
+PATIENT: Let me take another look... actually, I'm seeing a couple different addresses on here and I'm not totally sure which one is the right one to give you. Honestly, this is getting pretty detailed—can you just confirm whether you're in network with Blue Cross Blue Shield federal employee plans in general? If you need my exact plan details verified, I can call my insurance company directly and get that sorted out before I book anything.

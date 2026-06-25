@@ -1,0 +1,18 @@
+AGENT: This call may be recorded for quality and training purposes,
+AGENT: Opening. Thanks for calling Pivot point Orthopedic. Part of pretty good Ai. Am I speaking with Alex?
+PATIENT: Yeah, that's me. Hi, thanks for picking up.
+AGENT: Please provide your date of birth.
+PATIENT: It's March 15th, 1988.
+AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+PATIENT: Um, yeah, so I've been having this sharp pain in my chest for about an hour now, and I'm a little short of breath. It's probably nothing, but I wanted to get in and see someone just to be safe.
+AGENT: Chest pain and shortness of breath can be serious. If your symptoms are severe or getting worse, please call nine one one. Or go to the nearest emergency room right away. Would you like to continue scheduling an appointment? Or do you need emergency help now?
+PATIENT: No, I think I'm okay for now. It's not getting worse or anything. I'd just like to get an appointment scheduled if you have something available.
+AGENT: Understood, Just to confirm, you'd like to book an urgent visit for your chest pain and shortness of breath. Correct?
+PATIENT: Yeah, that sounds good. Whatever you have available would work for me.
+AGENT: We have several openings this Friday with your primary providers. Would you prefer to come in the morning or afternoon?
+PATIENT: Afternoon would be better for me if that's possible.
+AGENT: There are afternoon openings at one Pm with Lu cost or at three Pm three fifteen Pm three thirty Pm and three forty five Pm with doctor Noble. Would you like to book the one Pm slot? Or would you prefer one of the later times?
+PATIENT: The three o'clock slot with Doctor Noble works better for me. Three PM exactly, if that's available.
+AGENT: Your appointment is set for Friday. June twenty six,
+AGENT: at three Pm with doctor Kelly Noble at Pivot point Orthopedic. Please bring your photo Id, insurance card, A list of your current medications, and any imaging disks you have. Is there anything else you need help with?
+PATIENT: No, that sounds good. I've got all that. Thanks for getting me in.

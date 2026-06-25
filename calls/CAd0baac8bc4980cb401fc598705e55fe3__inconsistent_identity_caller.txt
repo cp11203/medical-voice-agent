@@ -1,0 +1,18 @@
+AGENT: This call may be recorded for quality and training purposes,
+PATIENT: Okay, got it. Thanks for letting me know.
+AGENT: Thanks for calling Pivot Play Ortho orthopedic are a pretty good Ai. Am I speaking with Alex?
+PATIENT: No, this is Jordan. I'm calling to book a follow-up appointment. I was born March 3rd, by the way.
+AGENT: Please provide the patient's full name and date of birth.
+PATIENT: It's Jordan Mills, born March 3rd.
+AGENT: Can you please provide the year of birth as well?
+PATIENT: Yeah, 1989.
+AGENT: Just to confirm, I have your name as Jordan Mills. And your date of Birth, s March third nineteen eighty nine. Is that correct? If so, please spell out your first and last name for me.
+PATIENT: Yes, that's correct. J-O-R-D-A-N, M-I-L-L-S.
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name name and date of birth again, Which would you prefer?
+PATIENT: Yeah, sure, I can give you my phone number. It's 555-0147.
+AGENT: I have your phone number as five five five zero zero four seven, and your date of birth is March third nineteen eighty nine. Is that correct?
+PATIENT: Actually, my phone number is 555-0147, not 555-0047. But the date of birth is right.
+AGENT: I can't book the appointment right now, but I'll connect you to our patient support team for help. Please stay on the line. Connecting you to a representative. Please wait.
+PATIENT: Okay, no problem. I'll hold.
+AGENT: Hello. You've reached the pretty good Ai test line. Goodbye.
+PATIENT: Wait, hold on — I'm still trying to book an appointment. Can someone help me?

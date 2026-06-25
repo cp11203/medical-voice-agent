@@ -1,0 +1,20 @@
+AGENT: This call may be recorded for quality and training purposes, or us
+AGENT: Thanks for calling Pivot point Orthopedic. Part of pretty good. Am I speaking with Alex?
+PATIENT: Hi, yes, this is Alex speaking. I'm calling to schedule an appointment for my son—he's 8 years old and we need to get him in to see someone.
+AGENT: Please provide your date of birth.
+PATIENT: Oh, that's for my son—his name is Marcus and his date of birth is March 15th, 2016.
+AGENT: I'll need Marcus his last name as well. Could you please provide his full name?
+PATIENT: Sure, it's Marcus Chen.
+AGENT: Just to confirm, I'd have Marcus Chen with a date of birth of March fifteenth twenty sixteen. Is that correct? If so, could you please spell out, Marcus his last name for me?
+PATIENT: Yes, that's correct. It's C-H-E-N.
+AGENT: Would you like to use a phone number to look up Marcus record? Yes so please provide the number you have on file with us. If you're not sure, just let me know and we can confirm Marcus full name and date of birth again.
+PATIENT: I don't have a number on file with you—this is actually our first time calling. But we can just use his name and date of birth to pull up his information if you need it.
+AGENT: No problem. To make sure I have everything correct Could you please confirm Marcus full name and date of birth one more time? Please spell out the last name as well.
+PATIENT: Yeah, of course. It's Marcus C-H-E-N, and his date of birth is March 15th, 2016.
+AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+PATIENT: Sure, that would be great. Yeah, go ahead and connect me.
+AGENT: Connecting you to a representative. Please wait.
+PATIENT: Okay, thank you.
+AGENT: Hello.
+AGENT: Hello. You've reached the pretty good Ai test line. Goodbye.
+PATIENT: Wait, sorry—I'm trying to schedule an appointment for my son. Can you help me with that?

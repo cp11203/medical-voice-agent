@@ -1,0 +1,10 @@
+twilio
+fastapi
+python-multipart
+uvicorn[standard]
+websockets
+python-dotenv
+deepgram-sdk
+anthropic
+elevenlabs
+pydantic

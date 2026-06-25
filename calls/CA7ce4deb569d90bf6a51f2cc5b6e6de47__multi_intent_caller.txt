@@ -1,0 +1,27 @@
+AGENT: This call may be recorded for quality and training purposes,
+AGENT: Us. Thanks for calling Ti Point Orthopedic. Part of pretty good Ai. Am I speaking with Alex?
+PATIENT: Yes, that's me. Hi, I'm calling because I need a refill on my blood pressure medication — I'm running pretty low on it.
+AGENT: Please provide your date of birth.
+PATIENT: It's March 15th, 1978.
+AGENT: Which blood pressure medications do you need refill today? Please tell me the name as it appears on your prescription bottle if you can.
+PATIENT: It's lisinopril, 10 milligrams.
+AGENT: How many days of l pro do you have less? If you were already out, just let me know.
+PATIENT: I've got maybe a few days left, so I need to get that refilled pretty soon.
+AGENT: Would you say you have about three days left? Or is it less? Just a rough estimate is fine.
+PATIENT: Yeah, about three days sounds right.
+AGENT: I have your number as four two four three five three three one eight eight
+PATIENT: That's correct.
+AGENT: Is that the best number for a callback?
+PATIENT: Yes, that works fine.
+AGENT: Is there anything else you'd like the team to know about your refill request. For example, any symptoms, urgency or other notes,
+PATIENT: No, nothing else on that front. Oh, and while I've got you, I was also hoping to book a follow-up appointment sometime in the next couple of weeks if you have anything available.
+AGENT: Could you please provide the name of the pharmacy you want to use? For your medication. If you know the address, city or any details like cross streets or nearby stores, that would help to. If you have their phone or fax number, please share not as well.
+PATIENT: It's Walgreens on Main Street in downtown. I don't have the exact address or phone number handy, but that should be enough to find it — it's the one near the library.
+AGENT: Could you tell me the city and state where this Walgreens is located. That will help make sure we have the right pharmacy for your medication.
+PATIENT: It's in Portland, Oregon.
+AGENT: Thanks. There are several Walgreens locations in Downtown Portland. Do you remember any nearby cross streets, landmarks, or the Zip code. For example, is it close to Burns side street caesar shop as Boulevard or another main road.
+PATIENT: Sorry, I'm not totally sure of the exact cross streets off the top of my head. Can you just send it to the Walgreens on Main and SW Alder — that's the one I usually go to.
+AGENT: I don't see a Walgreens listed at Main street or Southwest A in Portland. The closest downtown location by have our Walgreens at two one zero three West Burns side Street Walgreens at one two one five Northwest twenty third avenue. Do either of these sound like the one you use? If not, do you remember anything else about the location, like, a nearby business or the building it in.
+PATIENT: Yeah, the one on Northwest 23rd Avenue sounds like that could be it. Let's go with that one.
+AGENT: Just to confirm as if the pharmacy you want to use, walgreens drug store at one two one five Northwest twenty third Avenue. Portland Zip code nine seven two one zero.
+PATIENT: That sounds right, yeah.

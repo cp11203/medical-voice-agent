@@ -1,0 +1,20 @@
+AGENT: This call may be recorded for quality and training purposes,
+PATIENT: I understand. I'm ready to speak with someone about scheduling an appointment. What's next?
+AGENT: Thanks for calling Pivot point Ortho orthopedic. Part of pretty good Ai. Am I speaking with Alex?
+PATIENT: Yes, that's me. I'm calling to schedule an appointment.
+AGENT: Please provide your date of birth.
+PATIENT: My date of birth is March 15th, 1988.
+AGENT: Thanks, Alex. What type of appointment would you like to schedule? For example, is this for a new patient consultation, a follow up? A routine visit or something else.
+PATIENT: Yeah, it's for a new patient consultation. I've been having some shoulder pain and I'd like to get it checked out.
+AGENT: Thanks for sharing not. Do you have a specific provider you'd like to see or are you open to the first available.
+PATIENT: I'm open to whoever's available first. When can you get me in?
+AGENT: We have openings for a new patient consultation with do house on Tuesday, June t. There's a one at twelve forty five Pm and another at five fifteen Pm. Would either of those work for you?
+PATIENT: Do you have anything earlier than 12:45, or maybe later than 5:15?
+AGENT: Those are the only times available on Tuesday June t. I can check for other dates if you'd like, Tuesday Would you prefer something earlier in the day or later in the evening?
+PATIENT: Earlier in the day would be better for me. What do you have available on other days?
+AGENT: The earliest available slot is Thursday, July second at eleven to eighteen Am with Doug H. Would you like to book at or should I check for even earlier dates with a different provider.
+PATIENT: Thursday at 11:18 works pretty well for me, actually. Let me book that.
+AGENT: Just to confirm, you'd like to book Thursday, July second at eleven fifteen Am with Du H for your new patient Is that correct?
+PATIENT: Yeah, that sounds good. Thursday, July 2nd at 11:15 AM with Doug H for the new patient consultation. That all checks out for me.
+AGENT: Your appointment is set for Thursday. July second at eleven fifteen Am with Du H at pivot point ortho Please bring your photo Id, insurance card, a list of current medications and any imaging discs if you have them. Is there anything else I can help you with today?
+PATIENT: No, that's all set. Thanks for getting me scheduled. Have a good day.
