@@ -2,8 +2,8 @@
 
 ## Videos
 
-- [Walkthrough](https://www.loom.com/share/4f4813cebf19492baea98bb1070ecf16) — architecture, persona design, bug findings
-- [Iteration screen recording](https://www.loom.com/share/e536e13b65f9435bbdbcf7622416dbd2) — AI-assisted debugging and verification process
+- [Walkthrough](https://www.loom.com/share/e536e13b65f9435bbdbcf7622416dbd2) — architecture, persona design, bug findings
+- [Iteration screen recording](https://www.loom.com/share/4f4813cebf19492baea98bb1070ecf16) — AI-assisted debugging and verification process
 
 A Python voice bot that calls Pretty Good AI's test line (+1-805-439-8008) and holds real, multi-turn phone conversations as a simulated patient. Built for the PGAI AI Engineering Challenge to surface bugs in their AI scheduling agent.
 
